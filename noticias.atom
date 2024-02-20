@@ -49,12 +49,12 @@
     <title>Noticia Rocket League 3</title>
     <id>http://noticia3.com</id>
     <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://radastano13.github.io/CURRICULUM%20VITAE.pdf"/>
+    <link href=""/>
     <author>
       <name>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</name>
-      <uri>https://radastano13.github.io/CURRICULUM%20VITAE.pdf</uri>
+      <uri></uri>
     </author>
-    <content type="application/pdf" src="https://radastano13.github.io/CURRICULUM%20VITAE.pdf"/>
+    <content type="application/pdf" src=""/>
     <summary>Noticia de Rocket League 3</summary>
   </entry>
   
@@ -63,12 +63,12 @@
     <title>Noticia de Rocket League 4</title>
     <id>http://noticia4.com</id>
     <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://radastano13.github.io/langostavideo.mp4"/>
+    <link href=""/>
     <author>
-      <name>a23mogaal@iesgrancapitan.org(Alejandro Montejo Gálvez)</name>
-      <uri>https://radastano13.github.io/langostavideo.mp4</uri>
+      <name></name>
+      <uri></uri>
     </author>
-    <content type="video/mp4" src="https://radastano13.github.io/langostavideo.mp4"/>
+    <content type="video/mp4" src=""/>
     <summary>Noticia de Rocket League 4</summary>
   </entry>
   
