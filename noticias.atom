@@ -46,12 +46,12 @@
     <title>Noticia Rocket League 3</title>
     <id>http://noticia3.com</id>
     <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/UD8%20-%20Nivel%20de%20red%20-%20Enrutamiento%20din%C3%A1mico.pdf"/>
+    <link href="https://alfonsojavierromero.github.io/tarearssatom.github.io/pdfprueba.pdf"/>
     <author>
       <name>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</name>
-      <uri>https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/UD8%20-%20Nivel%20de%20red%20-%20Enrutamiento%20din%C3%A1mico.pdf</uri>
+      <uri>https://alfonsojavierromero.github.io/tarearssatom.github.io/pdfprueba.pdf</uri>
     </author>
-    <content type="application/pdf" src="https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/UD8%20-%20Nivel%20de%20red%20-%20Enrutamiento%20din%C3%A1mico.pdf"/>
+    <content type="application/pdf" src="https://alfonsojavierromero.github.io/tarearssatom.github.io/pdfprueba.pdf"/>
     <summary>Noticia de Rocket League 3</summary>
   </entry>
   <!-- mp4 -->
