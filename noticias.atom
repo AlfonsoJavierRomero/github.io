@@ -59,12 +59,12 @@
     <title>Noticia de Rocket League 4</title>
     <id>http://noticia4.com</id>
     <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/Quemando%20rastrojos%2C%20tener%20cuidado%20%E2%9A%A0%EF%B8%8F.%20(144p).mp4"/>
+    <link href="https://alfonsojavierromero.github.io/tarearssatom.github.io/video.mp4"/>
     <author>
       <name>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</name>
-      <uri>https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/Quemando%20rastrojos%2C%20tener%20cuidado%20%E2%9A%A0%EF%B8%8F.%20(144p).mp4</uri>
+      <uri>https://alfonsojavierromero.github.io/tarearssatom.github.io/video.mp4</uri>
     </author>
-    <content type="video/mp4" src="https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/Quemando%20rastrojos%2C%20tener%20cuidado%20%E2%9A%A0%EF%B8%8F.%20(144p).mp4"/>
+    <content type="video/mp4" src="https://alfonsojavierromero.github.io/tarearssatom.github.io/video.mp4"/>
     <summary>Noticia de Rocket League 4</summary>
   </entry>
 </feed>
