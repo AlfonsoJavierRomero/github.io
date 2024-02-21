@@ -20,12 +20,6 @@
             <day>Saturday</day>
             <day>Sunday</day>
         </skipDays>
-        <image> 
-            <title>Rocket League</tittle>
-            <url>https://github.com/AlfonsoJavierRomero/tarearssatom.github.io/blob/main/img/rocketleague.jpg</url>
-            <link>https://alfonsojavierromero.github.io/tarearssatom.github.io/</link>
-            <description>Rocket League</description>
-        </image>
         <item>
             <title>Zen se corona como el mejor jugador del mundo de Rocket League</title>
             <link>https://www.youtube.com/watch?v=dVVvXiqI67g</link>
